@@ -9,3 +9,8 @@ Challenge Outcome:
 4.When you collide with the Money, there’s a particle and sound effect
 
 5.When you collide with the Bomb, there’s an explosion and the background stops
+
+
+https://github.com/Ces119/Unit-3-Chalange-3/assets/127723797/5c87de80-d23a-4886-9b32-9a3d02ced2c4
+
+
